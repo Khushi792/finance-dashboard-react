@@ -5,7 +5,7 @@ A modern, responsive finance dashboard built with React.js and Tailwind CSS. Thi
  ## 🌐 Live Demo
 
 🚀 Try the app here:
-👉 https://your-project-name.vercel.app
+👉 https://finance-dashboard-react-vercel.vercel.app
 
 ## ✨ Features
 
